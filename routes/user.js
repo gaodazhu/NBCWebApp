@@ -4,5 +4,6 @@
  */
 
 exports.list = function(req, res){
-  res.send("respond with a resource");
+  var a = {"msg":"你个鸟人"};
+  res.send(a);
 };

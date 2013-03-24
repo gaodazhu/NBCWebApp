@@ -7,4 +7,15 @@
  */
 $(function(){
     //$.messager.alert("sdfs","dsafas","warning");
+    $("#center").click(function(){
+        $.ajax({
+           url:"/users",
+           type:"post",
+           dataType:"json",
+           success:function(data){
+               $.messager.alert("niad",data.msg,"info");
+           }
+
+        });
+    });
 })
