@@ -10,4 +10,8 @@ html
     script
     // nothing I've placed here has worked :-(
   body
-    block content
+    #layout.easyui-layout(style="width:1020px;height:500px;")
+      #center(region="center")
+        block center
+      #west(region="west",style="width:200px")
+        block west

@@ -1,6 +1,10 @@
 extends layout
 
-block content
+block center
   script(src='/javascripts/login.js')
   h1= title
   p Welcome to #{title}
+block west
+  ul 菜单栏
+    li 新的任务
+    li 旧的任务

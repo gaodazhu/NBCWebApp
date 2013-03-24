@@ -6,5 +6,5 @@
  * To change this template use File | Settings | File Templates.
  */
 $(function(){
-    $.messager.alert("sdfs","dsafas","warning");
+    //$.messager.alert("sdfs","dsafas","warning");
 })
