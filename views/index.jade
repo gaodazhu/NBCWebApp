@@ -1,10 +1,21 @@
 extends layout
 
 block center
-  script(src='/javascripts/login.js')
-  h1= title
-  p Welcome to #{title}
+  #contentTabs.easyui-tabs(fit="true")
+    #homePage(title="首页")
+        .easyui-layout(fit="true",border="false")
+            div(region="center",style="text-align:center",border="false")
+                br
+                br
+                br
+                br
+                br
+                h2 Welcome to intelligent bioinformatics platform of novelbio!
 block west
-  ul 菜单栏
-    li 新的任务
-    li 旧的任务
+  .easyui-panel(fit="true",title="菜单列表",style="overflow: hidden;")
+    ul#menuUl
+block north
+  br
+  br
+  h1 NovelBio Data Analysis Platform
+  p#welcomInfo(style="align: right")

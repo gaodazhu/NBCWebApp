@@ -1,0 +1,38 @@
+TD {
+	FONT-SIZE: 9pt;
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+
+BODY {
+	FONT-SIZE: 9pt;
+	FONT-FAMILY: "Arial", "Helvetica", "sans-serif"
+}
+
+.tbl1 {
+	BORDER-RIGHT: #3f5294 1px solid;
+	BORDER-TOP: #3f5294 1px solid;
+	FONT-SIZE: 9pt;
+	BORDER-LEFT: #3f5294 1px solid;
+	BORDER-BOTTOM: #3f5294 1px solid
+}
+
+.td1 {
+	BORDER-RIGHT: #ffffff 0px solid;
+	BORDER-TOP: #ffffff 1px solid;
+	BORDER-LEFT: #ffffff 1px solid;
+	BORDER-BOTTOM: #ffffff 0px solid
+}
+
+A {
+	COLOR: #000000;
+	TEXT-DECORATION: none
+}
+
+A:hover {
+	COLOR: #ff0000;
+	TEXT-DECORATION: none
+}
+
+.style6 {
+	FONT-FAMILY: "Courier New", Courier, mono
+}

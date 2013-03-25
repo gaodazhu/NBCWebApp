@@ -4,7 +4,6 @@
  */
 var mongoOperate = require('.././mongo/mongoOperate');
 exports.index = function(req, res){
-  mongoOperate.testaa();
-
+  //mongoOperate.test();
   res.render('index', { title: 'Express' });
 };

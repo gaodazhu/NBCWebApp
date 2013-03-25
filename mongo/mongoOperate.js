@@ -5,7 +5,7 @@
  * Time: 下午8:42
  * To change this template use File | Settings | File Templates.
  */
-exports.testaa=function(){
+exports.test=function(){
     var mongo = require('mongodb');
     var Server = mongo.Server;
     var Db=mongo.Db;

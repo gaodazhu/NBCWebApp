@@ -3,15 +3,28 @@ html
   head
     title= title
     link(rel='stylesheet', href='/stylesheets/style.css')
-    link(rel='stylesheet', href='/javascripts/jquery-easyui-1.2.6/themes/gray/easyui.css')
+    link(rel='stylesheet', href='/stylesheets/asider.css')
+    link(rel='stylesheet', href='/stylesheets/novelbioFrame.css')
+    link(rel='stylesheet', href='/javascripts/jquery-easyui-1.2.6/themes/metro-gray/easyui.css')
     link(rel='stylesheet', href='/javascripts/jquery-easyui-1.2.6/themes/icon.css')
     script(src='/javascripts/jquery-easyui-1.2.6/jquery-1.7.2.min.js')
     script(src='/javascripts/jquery-easyui-1.2.6/jquery.easyui.min.js')
+    script(src='/javascripts/novelbioUtil.js')
+    script(src='/javascripts/asider.js')
+    script(src='/javascripts/computer.js')
+    script(src='/javascripts/nbcNoteManager.js')
+    script(src='/javascripts/task.js')
+    script(src='/javascripts/userManager.js')
     script
     // nothing I've placed here has worked :-(
   body
-    #layout.easyui-layout(style="width:1020px;height:500px;")
-      #center(region="center")
+    #novelbioFrameDiv.easyui-layout
+      #content(region="center",border="false")
         block center
-      #west(region="west",style="width:200px")
+      #westFrame(region="west")
         block west
+      #northFrame(region="north")
+        block north
+      #southFrame(region="south")
+        br
+        h3 Designed By Novelbio Development Department
