@@ -2,81 +2,13 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7c7649bd-6c8b-490f-b22d-9960b60749dc" name="Default" comment="">
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/error/404.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/Thumbs.db" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/accordion_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/error/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/frame/bg.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/frame/bj.jpg" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/blank.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/calendar_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/combo_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/datagrid_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/datebox_arrow.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/frame/ico.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/error/jt.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/layout_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/linkbutton_bg.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/loading.gif" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/images/login-sprite.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/menu_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/messager_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/pagination_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/panel_tools.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/searchbox_button.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/slider_handle.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/spinner_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/tabs_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/tree_icons.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/validatebox_arrows.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/images/validatebox_warning.png" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/accordion.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/ajaxfileupload.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/asider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/asider.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/autoReport.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/calendar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/combo.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/combobox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/computer.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/datagrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/datebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/dialog.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/easyui.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/error404.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/error500.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/layout.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/linkbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/login.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/views/login.jade" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/menu.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/menubutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/messager.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/nbcNoteManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/stylesheets/novelbioFrame.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/novelbioUtil.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/pagination.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/panel.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/progressbar.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/propertygrid.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/searchbox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/slider.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/spinner.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/splitbutton.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/tabs.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/task.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/tree.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/userManager.js" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/validatebox.css" />
-      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/public/javascripts/jquery-easyui-1.2.6/themes/metro-gray/window.css" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" afterPath="$PROJECT_DIR$/.idea/runConfigurations/app_js.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/index.jade" afterPath="$PROJECT_DIR$/views/index.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/routes/index.js" afterPath="$PROJECT_DIR$/routes/index.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" afterPath="$PROJECT_DIR$/.idea/jsLibraryMappings.xml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/views/layout.jade" afterPath="$PROJECT_DIR$/views/layout.jade" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/login.js" afterPath="$PROJECT_DIR$/public/javascripts/login.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/mongo/mongoOperate.js" afterPath="$PROJECT_DIR$/mongo/mongoOperate.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/style.css" afterPath="$PROJECT_DIR$/public/stylesheets/style.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/ajaxfileupload.js" afterPath="$PROJECT_DIR$/public/javascripts/ajaxfileupload.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/asider.css" afterPath="$PROJECT_DIR$/public/stylesheets/asider.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/asider.js" afterPath="$PROJECT_DIR$/public/javascripts/asider.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/javascripts/autoReport.js" afterPath="$PROJECT_DIR$/public/javascripts/autoReport.js" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/error404.css" afterPath="$PROJECT_DIR$/public/stylesheets/error404.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/error500.css" afterPath="$PROJECT_DIR$/public/stylesheets/error500.css" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/public/stylesheets/novelbioFrame.css" afterPath="$PROJECT_DIR$/public/stylesheets/novelbioFrame.css" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="FirstNodejs.iws" />
@@ -84,7 +16,7 @@
     <file path="/layout.jade" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364176222281" ignored="false" />
     <file path="/index.jade" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364175589653" ignored="false" />
     <file path="/login.js" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364125125490" ignored="false" />
-    <file path="/Dummy.txt" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364173839026" ignored="false" />
+    <file path="/Dummy.txt" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364191514558" ignored="false" />
     <file path="/style.css" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364175657148" ignored="false" />
     <file path="/user.js" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364124454459" ignored="false" />
     <file path="/app.js" changelist="7c7649bd-6c8b-490f-b22d-9960b60749dc" time="1364130842071" ignored="false" />
@@ -185,7 +117,7 @@
       <file leaf-file-name="index.js" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/routes/index.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="8" column="26" selection-start="189" selection-end="189" vertical-scroll-proportion="0.16759777">
+            <state line="8" column="26" selection-start="189" selection-end="189" vertical-scroll-proportion="0.20134228">
               <folding />
             </state>
           </provider>
@@ -454,7 +386,11 @@
       <created>1364129066338</created>
       <updated>1364129066338</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="整合了一部分代码">
+      <created>1364191545743</created>
+      <updated>1364191545743</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="TodoView" selected-index="0">
@@ -481,20 +417,20 @@
     <frame x="55" y="-7" width="1866" height="1088" extended-state="6" />
     <editor active="false" />
     <layout>
-      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33846155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Changes" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.32760474" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.24944155" sideWeight="0.67066896" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18325177" sideWeight="0.80128896" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="true" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.18325177" sideWeight="0.6723953" order="0" side_tool="false" content_ui="combo" />
       <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.3298585" sideWeight="0.6700855" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32820514" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
-      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" weight="0.19871107" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.2057842" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.32991454" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
-      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.33846155" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
       <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="SLIDING" type="SLIDING" visible="false" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
       <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
@@ -542,7 +478,7 @@
     <option name="WRAP_WHEN_TYPING_REACHES_RIGHT_MARGIN" value="false" />
     <option name="FORCE_NON_EMPTY_COMMENT" value="false" />
     <option name="CLEAR_INITIAL_COMMIT_MESSAGE" value="false" />
-    <option name="LAST_COMMIT_MESSAGE" value="网上找了一段mongodb代码" />
+    <option name="LAST_COMMIT_MESSAGE" value="整合了一部分代码" />
     <option name="MAKE_NEW_CHANGELIST_ACTIVE" value="false" />
     <option name="OPTIMIZE_IMPORTS_BEFORE_PROJECT_COMMIT" value="false" />
     <option name="CHECK_FILES_UP_TO_DATE_BEFORE_COMMIT" value="false" />
@@ -559,6 +495,7 @@
     <MESSAGE value="第一次提交" />
     <MESSAGE value="测试玩了一下" />
     <MESSAGE value="网上找了一段mongodb代码" />
+    <MESSAGE value="整合了一部分代码" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager />
@@ -683,7 +620,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/routes/index.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="8" column="26" selection-start="189" selection-end="189" vertical-scroll-proportion="0.16759777">
+        <state line="8" column="26" selection-start="189" selection-end="189" vertical-scroll-proportion="0.20134228">
           <folding />
         </state>
       </provider>
