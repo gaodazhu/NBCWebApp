@@ -1,0 +1,17 @@
+//
+   Created with JetBrains WebStorm.
+   User: novelbio
+   Date: 13-4-3
+   Time: 下午4:33
+   To change this template use File | Settings | File Templates.
+html
+    head
+        script(src='/javascripts/cytoscapeweb/AC_OETags.js')
+        script(src='/javascripts/cytoscapeweb/cytoscapeweb.js')
+        script(src='/javascripts/cytoscapeweb/json2.js')
+    body
+        #cytoscapeweb(style="width:600px;height:400px;")
+        script
+            var xml = '<graphml><graph><node id="1"/><node id="2"/><edge target="1" source="2"/></graph></graphml>';
+            var vis = new org.cytoscapeweb.Visualization("cytoscapeweb");
+            vis.draw({ network: xml });
